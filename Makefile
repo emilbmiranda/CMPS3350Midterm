@@ -8,5 +8,6 @@ unittest: mid19.cpp
 
 clean:
 	rm -f mid19
+	rm -f unittest
 	rm -f *.o
 
